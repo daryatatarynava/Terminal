@@ -22,7 +22,8 @@ Linux terminal (GitBash) commands
 
 == { "name": "Darya",
 "age": 29,
-"hobby": "pottery"}
+"hobby": "pottery",
+"pet': "cat"}
 
 11) + сохранить и выйти.==== Esc :wq 
 
